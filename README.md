@@ -6,7 +6,7 @@ Projekt analityczny End-to-End przedstawiający sytuację demograficzną w Polsc
 
 
 
-!\[Dashboard View](dashboard/dashboard\_view.png)
+!\[Dashboard View](dashboard/dashboard_view.png)
 
 
 
