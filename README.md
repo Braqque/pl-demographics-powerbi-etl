@@ -6,9 +6,9 @@ Projekt analityczny End-to-End przedstawiający sytuację demograficzną w Polsc
 
 
 
-!\[Dashboard View](dashboard/dashboard_view.png)
+!\[Dashboard View](pl-demographics-powerbi-etl/blob/main/dashboard/dashboard_view.png)
 dashboard/dashboard_view.png
-
+https://github.com/Braqque/pl-demographics-powerbi-etl/blob/main/dashboard/dashboard_view.png
 
 \## 🔄 Opis Procesu
 
