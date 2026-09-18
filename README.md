@@ -6,8 +6,8 @@ Projekt analityczny End-to-End przedstawiający sytuację demograficzną w Polsc
 
 
 
-!\[Dashboard View](./dashboard/dashboard_view.png)
-
+!\[Dashboard View](dashboard/dashboard_view.png)
+dashboard/dashboard_view.png
 
 
 \## 🔄 Opis Procesu
