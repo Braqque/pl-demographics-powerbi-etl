@@ -5,14 +5,14 @@
 Projekt analityczny End-to-End przedstawiający sytuację demograficzną w Polsce na poziomie województw.
 
 
+![Dashboard View](https://raw.githubusercontent.com/Braqque/pl-demographics-powerbi-etl/main/dashboard/dashboard_view.png)
 
-!\[Dashboard View](pl-demographics-powerbi-etl/blob/main/dashboard/dashboard_view.png)
-dashboard/dashboard_view.png
-https://github.com/Braqque/pl-demographics-powerbi-etl/blob/main/dashboard/dashboard_view.png
+![Dashboard View](https://raw.githubusercontent.com/Braqque/pl-demographics-powerbi-etl/main/dashboard/dashboard_view1.png)
+
 
 \## 🔄 Opis Procesu
 
-Projekt obejmuje pełen cykl przetwarzania danych, od źródła po końcową wizualizację biznesową:
+Projekt obejmuje pełen cykl przetwarzania danych, od źródła po końcową wizualizację:
 
 1\. \*\*Ekstrakcja (Python):\*\* Automatyczne pobranie surowych wskaźników z API Głównego Urzędu Statystycznego (BDL) przy użyciu biblioteki `requests` i zapisanie ich do zoptymalizowanego formatu Parquet.
 
